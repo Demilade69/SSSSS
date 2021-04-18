@@ -1,0 +1,81 @@
+*,* ::before, ::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+.Container{
+    font-size: large;
+}
+
+.Name{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3.04rem;
+    -webkit-text-fill-color: transparent;
+    background-clip: cover;
+    background-image:url(Zshope3.JPG);
+    -webkit-background-clip: text;
+    border-block: 2px dashed;
+    border-color: #ff2121;
+    letter-spacing: 1px;
+    margin-right: 27px;
+} 
+.tribute-video{
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-block: dashed 3px;
+    color: rgb(184, 216, 247);
+    margin-top: 40px;
+}
+
+.Image-2{
+    font-size:xx-large;
+    text-align: center;
+    margin-bottom: 25px;
+    /* -webkit-text-fill-color: transparent;
+    background-image: url(ZRInkealShope_LI.jpg);
+    background-size: cover ;
+    -webkit-background-clip: text; */
+}
+.span-1{
+    color: rgb(239, 226, 250);
+    font-size: 25px;
+    text-align: left; 
+}
+
+.p{
+    color: rgb(239, 226, 250);
+    font-size: larger;
+    margin-left: 5px;
+}
+
+.p-2{
+    text-align: right;
+    margin-right: 20px;
+    color: rgb(231, 76, 52);
+}
+.span-2{
+    color: rgb(239, 226, 250);
+    font-size: 25px; 
+}
+.p-3{
+    color: rgb(239, 226, 250);
+    font-size: 25px; 
+}
+.like{
+    color: #7ba8e2;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+.p-4{
+    color:  rgb(239, 226, 250);
+    font-size: 25px;
+}
